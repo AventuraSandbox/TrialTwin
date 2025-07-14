@@ -1,0 +1,4 @@
+First Name,Last Name,Age,Gender,Primary Diagnosis,Cancer Stage,Previous Treatments,Location,Travel Willingness,Biomarkers,Performance Status
+John,Doe,58,Male,Lung Cancer,Stage III,Surgery,New York NY,High,"{""EGFR"":""Positive""}",Good
+Jane,Smith,62,Female,Breast Cancer,Stage II,Chemotherapy,Boston MA,Medium,"{""HER2"":""Negative""}",Fair
+Robert,Johnson,45,Male,Prostate Cancer,Stage I,None,Chicago IL,Low,"{""PSA"":""Elevated""}",Good

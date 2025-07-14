@@ -435,16 +435,9 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## Support
 
-### Getting Help
-- Documentation: [Full Documentation](https://your-docs.com)
+If you need help or want to report a bug:
 - Bug Reports: [GitHub Issues](https://github.com/yourusername/trial-twin/issues)
-- Discussions: [GitHub Discussions](https://github.com/yourusername/trial-twin/discussions)
-- Email: support@aventurasandbox.com
-
-### Community
-- Discord: [Join our community](https://discord.gg/your-invite)
-- Twitter: [@AventuraSandbox](https://twitter.com/AventuraSandbox)
-- LinkedIn: [Aventura Sandbox](https://linkedin.com/company/aventura-sandbox)
+- Email: ask@synovatehealth.com
 
 ## Roadmap
 
